@@ -19,7 +19,7 @@ _mailinglist
 docs/_build/
 .vscode
 Pipfile.lock
-config.py
+app/main/services/config.py
 
 # Coverage reports
 htmlcov/
